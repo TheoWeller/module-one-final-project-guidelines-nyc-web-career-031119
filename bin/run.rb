@@ -1,4 +1,6 @@
 require_relative '../config/environment'
 
-binding.pry
 puts "HELLO WORLD"
+# get_input_from_user
+welcome 
+get_all_jobs
